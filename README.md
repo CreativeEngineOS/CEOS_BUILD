@@ -5,20 +5,23 @@
   This project is my response to years of frustration with scattered tools and a desire to 
   build a system that is transparent, efficient, and human-centric.
 
+
 **Our Mission**
 
   The core focus of CEOS_BUILD is to:
-  Streamline Production: Create efficient pipelines for both commissioned and independent creative projects. 
-  Enhance Interaction: Drive UI/UX logic based on direct interaction between the producer, client, and end-user.
-  Counter the Ad Hoc: Provide a structured, repeatable, and self-sufficient guideline that counters the unstructured 
-  and ad hoc workflows prevalent in the creative industry.
-  Champion Transparency: Offer a transparent, "open-source" system that serves as a counterweight to AI and LLMs.
+  - Streamline Production: 			Create efficient pipelines for both commissioned and independent creative projects. 
+  - Enhance Interaction: 				Drive UI/UX logic based on direct interaction between the producer, client, and end-user.
+  - Counter the Ad Hoc: 				Provide a structured, repeatable, and self-sufficient guideline that counters the unstructured 
+  															and ad hoc workflows prevalent in the creative industry.
+  - Champion Transparency: 			Offer a transparent, "open-source" system that serves as a counterweight to AI and LLMs.
+
 
 **Current Status**
 
   The project is currently in the rough-design, test, and implementation phase. The file and document tree 
   structures are growing organically, and archival databases are being primed for ingestion into the overall system. 
   I'm building this system from the ground up, inspired by the open-source community and a "tinker-first, polish-later" approach.
+
 
 **The CEOS_BUILD Toolbox**
 
