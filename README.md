@@ -70,8 +70,4 @@ Development & Deployment Stages:
 This project is an evolving system, and I believe in open collaboration. I’m a builder of systems, not just a creator of content, and my goal is to build a sustainable workflow that can be a blueprint for others. I am a developer at heart, but from a creative’s perspective, not a code-first person.
 
 
-**FOOTER REFERENCE NOTES**
 
-<a href="https://github.com/CreativeEngineOS/CEOS_BUILD/blob/main/%23CEOS_CORE%20-%20General%20Information.pdf">CEOS_CORE - General Information</a>
-
-<a href="https://github.com/CreativeEngineOS/CEOS_BUILD/commit/176842a820921b2a2bc3582afaf62f50e1056792">BLOG _NOTES - Creative_Engine_OS</a>
