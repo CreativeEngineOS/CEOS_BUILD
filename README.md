@@ -1,9 +1,10 @@
-# CEOS_SCAFFOLDING
+# CEOS_BUILD
 
-Cretive_Engine_OS Bone-structure
+>_CEOS: Build Structure Templates
+  Powers by Cretive_Engine_OS
 
-Files & Functions form the backbone of CEOS.
-The structure functions as a scaffolding system to build arround an creative enteerprise.
+//File & Functions form the backbone of CEOS, ensuring a proper workflow trhoughout the entire production pipeline.
+//The CEOS_BUIL structure layed out in these documents functions as a scaffolding system to build arround an creative enteerprise.
 
 
 
